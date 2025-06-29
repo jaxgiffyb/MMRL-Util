@@ -28,5 +28,6 @@ setup(
             "mmrl-util=sync.__main__:main",
         ],
     },
+
     python_requires=">=3.7",
 )
